@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb4a89aaa5334e58824a4f049b5e8ccf",
+    "_text_": "Click ME!!",
+    "_top_": {
+        "type": "string",
+        "value": "155dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "scc62aaa4c99495ba2d5744e47d188b8",
+    "id": "btnNext",
+    "ide_onClick": "AS_Button_096c49d7e929489b9a00060ea7901e72",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c18a77c7fcac42ea88f664e25cb86313",
+    "name": "kony.ui.Button",
+    "parent": "flexMain",
+    "pf": "frmHome",
+    "wType": "Button",
+    "zindex": 1
+}
